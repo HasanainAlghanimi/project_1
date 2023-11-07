@@ -9,3 +9,5 @@ Does credit card fraud occur more via online transactions or with a physical car
 Does location contribute to risk of fraud?
 # Dataset used
 https://app.datacamp.com/workspace/w/4962e0ec-3d55-4e53-baf3-af9910c1c368/edit
+Google slideshow
+https://docs.google.com/presentation/d/1lldqSEJuwWGUMPPQT5A-sdC3QzHvkyxCS31k8aKbo6M/edit?usp=sharing
